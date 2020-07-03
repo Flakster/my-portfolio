@@ -186,12 +186,24 @@ footer {
   text-align: center;
   vertical-align: center;
   background-color: #444;
-  color: white;
+  color: whitesmoke;
   height: 50px;
   font-family: 'Work Sans', sans-serif;
-  font-weight: 200;
+  font-weight: 300;
   font-size: 15px;
+  line-height: 20px;
   padding: 20px;
+}
+
+footer a {
+  font-weight: 100;
+  color: white;
+  text-decoration: none;
+}
+
+footer a:hover {
+  font-weight: 200;
+  color:white;
 }
 
 
