@@ -224,7 +224,7 @@ footer {
   font-weight: 300;
   font-size: 15px;
   line-height: 20px;
-  padding: 20px;
+  padding: 15px;
 }
 
 footer a {
@@ -237,6 +237,8 @@ footer a:hover {
   font-weight: 200;
   color:white;
 }
+
+.twitter-footer, .github-footer, linkedin-footer { margin: 0 20px} 
 
 
 @media all and (max-width: 992px) {
